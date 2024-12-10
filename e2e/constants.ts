@@ -265,7 +265,7 @@ const OG_REQUIRED_TAGS = ["title", "image", "url", "type"];
 
 export const OG_TAGS = [...OG_REQUIRED_TAGS, "description"];
 
-export const TERMINAL_BASE_CD = "/home/arcangelo";
+export const TERMINAL_BASE_CD = "/home/root";
 
 export const ROOT_PUBLIC_FOLDER = "public";
 

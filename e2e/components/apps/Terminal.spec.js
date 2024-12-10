@@ -343,7 +343,7 @@ test_1.test.describe("has file system access", function () {
                             return [4 /*yield*/, (0, functions_1.sendToTerminal)({ page: page }, "find ".concat(testFile))];
                         case 1:
                             _b.sent();
-                            return [4 /*yield*/, (0, functions_1.terminalDoesNotHaveText)({ page: page }, "/home/arcangelo/".concat(testFile))];
+                            return [4 /*yield*/, (0, functions_1.terminalDoesNotHaveText)({ page: page }, "/home/root/".concat(testFile))];
                         case 2:
                             _b.sent();
                             return [4 /*yield*/, (0, functions_1.sendToTerminal)({ page: page }, "touch ".concat(testFile))];
@@ -352,7 +352,7 @@ test_1.test.describe("has file system access", function () {
                             return [4 /*yield*/, (0, functions_1.sendToTerminal)({ page: page }, "find ".concat(testFile))];
                         case 4:
                             _b.sent();
-                            return [4 /*yield*/, (0, functions_1.terminalHasText)({ page: page }, "/home/arcangelo/".concat(testFile))];
+                            return [4 /*yield*/, (0, functions_1.terminalHasText)({ page: page }, "/home/root/".concat(testFile))];
                         case 5:
                             _b.sent();
                             return [2 /*return*/];
@@ -368,7 +368,7 @@ test_1.test.describe("has file system access", function () {
                         case 0: return [4 /*yield*/, (0, functions_1.sendToTerminal)({ page: page }, "find document")];
                         case 1:
                             _b.sent();
-                            return [4 /*yield*/, (0, functions_1.terminalHasText)({ page: page }, "/home/arcangelo/Documents", 1, false, true)];
+                            return [4 /*yield*/, (0, functions_1.terminalHasText)({ page: page }, "/home/root/Documents", 1, false, true)];
                         case 2:
                             _b.sent();
                             return [2 /*return*/];

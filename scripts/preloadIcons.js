@@ -11,7 +11,7 @@ const { parse } = require("ini");
 
 const PUBLIC_DIR = "public";
 
-const HOME = "home/arcangelo";
+const HOME = "home/root";
 const DESKTOP_PATH = `${HOME}/Desktop`;
 const START_MENU_PATH = `${HOME}/Start Menu`;
 
