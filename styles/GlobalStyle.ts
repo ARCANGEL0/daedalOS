@@ -35,16 +35,6 @@ const GlobalStyle = styled.createGlobalStyle`
   --sb-size: 5px; /* Size of the scrollbar */
 }
 
-.cveudL {
-  overflow: auto; /* Ensure the container can scroll */
-}
-
-.cveudL article {
-  background: rgba(10, 10, 10, 0.4); /* Background for articles */
-  border-radius: 8px; /* Rounded corners for articles */
-  padding: 10px; /* Padding for better content spacing */
-}
-
 *::-webkit-scrollbar {
   width: var(--sb-size) !important; /* Width of the vertical scrollbar */
   height: var(--sb-size) !important; /* Height of the horizontal scrollbar */
