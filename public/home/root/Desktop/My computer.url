@@ -3,4 +3,4 @@ BaseURL=FileExplorer
 Comment=Shows the contents of the root folder.
 IconFile=/System/Icons/pc.webp
 Type=System
-URL=/
+URL=/home/root
