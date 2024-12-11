@@ -1,5 +1,5 @@
 ┍━━━━━━━━━━━━━━━━━━━ \
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=80&color=38DA00&background=00000057&multiline=true&repeat=false&width=1200&height=600&lines=Hi+there!;My+name's+Henry!;Welcome+to+my+OS;I'm+a+chill+developer+who+loves+to+code%2C+drink+coffee+and+play+games.+.+.+;Feel+free+to+explore+my+portfolio!" alt="Typing SVG" /></a> \
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
 &nbsp;&nbsp;&nbsp;🎓&nbsp; Graduated in Software analysis and development.\

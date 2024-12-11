@@ -6,9 +6,10 @@ import { DEFAULT_SCROLLBAR_WIDTH } from "utils/constants";
 const StyledMarked = styled.div`
   article {
     ${ScrollBars(DEFAULT_SCROLLBAR_WIDTH, 0, 0, "light")};
-    background-color: #f9f9f9;
+    background-color: rgba(10,10,10,0.3);
     box-sizing: border-box;
     font-size: 16px;
+    color: #cecece;
     height: 100%;
     line-height: 1.5;
     overflow-y: auto;
