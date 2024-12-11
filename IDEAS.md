@@ -308,3 +308,23 @@
 - Solitaire ([1](https://github.com/rjanjic/js-solitaire), [2](https://github.com/1j01/98/tree/master/programs/js-solitaire))
 - [Heroes of Might and Magic II](https://github.com/ihhub/fheroes2)
 - [Doom 3](https://wasm.continuation-labs.com/d3demo/)
+
+
+----------
+self notes
+
+https://www.glassdoor.com.br/Vaga/guaruj%C3%A1-jovem-aprendiz-vagas-SRCH_IL.0,7_IC2464330_KO8,22.htm
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6824290
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6823042
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6821681
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6706516
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6707896
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6513919
+
+https://www.trabalhabrasil.com.br/vagas-empregos-em-guaruja-sp/jovem-aprendiz/6084325

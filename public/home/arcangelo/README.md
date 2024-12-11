@@ -1,8 +1,5 @@
-<h1> ⛛ About Me </h1>
-
-┍━━━━━━━━━━━━━━━━━━━
-╿ ❱ I'm **Henry**, a JS and Node developer passionate for innovating and creating things. I 
-┃love writing command-line frameworks, Automation and IA Projects.
+┍━━━━━━━━━━━━━━━━━━━ \
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=80&color=38DA00&background=00000057&multiline=true&repeat=false&width=1200&height=600&lines=Hi+there!;My+name's+Henry!;Welcome+to+my+OS;I'm+a+chill+developer+who+loves+to+code%2C+drink+coffee+and+play+games.+.+.+;Feel+free+to+explore+my+portfolio!" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
 &nbsp;&nbsp;&nbsp;🎓&nbsp; Graduated in Software analysis and development.\
@@ -180,6 +177,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </p>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=ARCANGEL0&style=for-the-badge&label=Views&color=111111"><img>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=arcangel0&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 </p>
