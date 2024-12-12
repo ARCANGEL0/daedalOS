@@ -328,6 +328,13 @@
 > ![Android Debug Bridge (ADB) Badge](https://img.shields.io/badge/-ADB-3B4252?style=flat&logo=github&logoColor=white)
 
 ###### Password Cracking
+> ![Hashcat Badge](https://img.shields.io/badge/-Hashcat-3B4252?style=flat&logo=github&logoColor=white)
+> ![John the Ripper Badge](https://img.shields.io/badge/-John%20the%20Ripper-3B4252?style=flat&logo=github&logoColor=white)
+> ![Hydra Badge](https://img.shields.io/badge/-Hydra-3B4252?style=flat&logo=github&logoColor=white)
+> ![Cain and Abel Badge](https://img.shields.io/badge/-Cain%20and%20Abel-3B4252?style=flat&logo=github&logoColor=white)
+> ![Aircrack-ng Badge](https://img.shields.io/badge/-Aircrack--ng-3B4252?style=flat&logo=github&logoColor=white)
+> ![Pydictor Badge](https://img.shields.io/badge/-Pydictor-3B4252?style=flat&logo=github&logoColor=white)
+> ![CrackMapExec Badge](https://img.shields.io/badge/-CrackMapExec-3B4252?style=flat&logo=github&logoColor=white)
 ###### Cloud Security
 ###### Incident Response
 ###### Threat Intelligence
