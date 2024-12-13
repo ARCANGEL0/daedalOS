@@ -18,7 +18,7 @@ export const config: VantaWavesConfig = {
       wireframe: true,
     },
   },
-  saturation: 40,
+  saturation: 0,
   shininess: 35,
   waveHeight: 70,
   waveSpeed: 0.35,
