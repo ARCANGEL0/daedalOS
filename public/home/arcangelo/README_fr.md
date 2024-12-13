@@ -1,18 +1,17 @@
 ┍━━━━━━━━━━━━━━━━━━━ \
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+.around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;">
-      <p>🎓 Software Development Graduate</p>
-      <p>🚀 Currently on the hunt for a new job opportunity.</p>
-      <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
-      <p>🔍 Currently studying with the goal of achieving my dream in cybersecurity and security auditing.</p>
-      <p>💾 Coding since 0b1111 years old.</p>
-      <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
-    </td>
-    <td style="width: 2%; text-align: center; vertical-align: top;">
+  <p>🎓 Diplômé en Développement Logiciel</p>
+<p>🚀 Actuellement à la recherche d'une nouvelle opportunité professionnelle.</p>
+<p>🧠 Passionné par le codage et la résolution de problèmes, la conception d'interfaces attrayantes, et un bon café pour stimuler ma créativité.</p>
+<p>🔍 Actuellement en apprentissage avec l'objectif de réaliser mon rêve dans la cybersécurité et l'audit de sécurité.</p>
+<p>💾 Je code depuis l'âge de 0b1111 ans.</p>
+<p>🌐 Mon localhost est fièrement installé à Porto, au Portugal.</p>
+<td style="width: 2%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
           <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 60%; height: 60%; display: block;">
@@ -37,13 +36,13 @@
  
 <h2>
   <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;65px; padding-left: 5%; align:middle ">  <br>
-  <a style="color: inherit"> My Tech Stack
+  <a style="color: inherit"> Ma Stack Technologique
 </a>
 </h2>
 
 
 <details>
-  <summary><strong> Languages & Libraries </strong> </summary>
+  <summary><strong> Langages et Bibliothèques</strong> </summary>
   <br>
   
 ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
@@ -55,7 +54,7 @@
 ![Ruby Badge](https://img.shields.io/badge/-.Ruby-3B4252?style=flat&logo=ruby&logoColor=red)
 ![SQL Badge](https://img.shields.io/badge/-SQL-3B4252?style=flat&logo=databricks&logoColor=white)
 
-###### general
+###### Général
 > ![JSON Badge](https://img.shields.io/badge/-JSON-3B4252?style=flat&logo=json&logoColor=D08770)
 > ![Swagger Badge](https://img.shields.io/badge/-Swagger-3B4252?style=flat&logo=swagger&logoColor=B48EAD)
 > ![YAML Badge](https://img.shields.io/badge/-YAML-3B4252?style=flat&logo=yaml&logoColor=88C0D0)
@@ -116,7 +115,9 @@
 
 
 <details>
-  <summary><strong> Database & Storage Solutions </strong> </summary>
+  <summary><strong> Databases et Solutions de Stockage
+
+ </strong> </summary>
   <br>
     
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=88C0D0)
@@ -136,7 +137,7 @@
 
 
 <details>
-  <summary><strong> Web Development, Interactive Application & Visualisations </strong> </summary>
+  <summary><strong> Développement Web, Applications Interactives et Visualisations </strong> </summary>
   <br>
   
 ![HTML Badge](https://img.shields.io/badge/-HTML-3B4252?style=flat&logo=html5&logoColor=D08770)
@@ -146,7 +147,7 @@
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-3B4252?style=flat&logo=node.js&logoColor=A3BE8C)
 ![npm Badge](https://img.shields.io/badge/-npm-3B4252?style=flat&logo=npm&logoColor=BF616A)
 
-###### Frameworks & Libraries
+###### Frameworks et Bibliothèques
 > ![React Badge](https://img.shields.io/badge/-React-3B4252?style=flat&logo=react&logoColor=blue)
 > ![React Badge](https://img.shields.io/badge/-Redux-3B4252?style=flat&logo=redux&logoColor=purple)
 > ![ReactN Badge](https://img.shields.io/badge/-React%20Native-3B4252?style=flat&logo=reactos&logoColor=white)
@@ -164,7 +165,7 @@
 
 
 <details>
-  <summary><strong> Testing </strong> </summary>
+  <summary><strong> Tests </strong> </summary>
   <br>
     
 ![Postman Badge](https://img.shields.io/badge/-Postman-3B4252?style=flat&logo=postman&logoColor=D08770)
@@ -181,10 +182,11 @@
 
 
 <details>
-  <summary><strong> Cybersecurity </strong> </summary>
+  <summary><strong> Cybersécurité
+ </strong> </summary>
 <h3>💻 Main OS: &nbsp;&nbsp;<img style="margin: -3px"src="https://img.shields.io/badge/-Black%20Arch-3B4252?style=flat&logo=archlinux&logoColor=ff4444" alt="Kali Badge" /> </h3>
 
-###### Footprinting & Scanning
+###### Footprinting & Analyse
 > ![NMAP Badge](https://img.shields.io/badge/-Nmap-3B4252?style=flat&logoColor=white&logo=github)
 > ![Recon-ng Badge](https://img.shields.io/badge/-Recon--ng-3B4252?style=flat&logoColor=white&logo=github)
 > ![Shodan Badge](https://img.shields.io/badge/-Shodan-3B4252?style=flat&logo=github&logoColor=ff0000)
@@ -202,7 +204,7 @@
 > ![Infoga Badge](https://img.shields.io/badge/-Infoga-3B4252?style=flat&logo=searxng&logoColor=white)
 > ![Pulsar Badge](https://img.shields.io/badge/-Pulsar-3B4252?style=flat&logo=github&logoColor=white)
 
-###### Network Analysis
+###### Analyse de Réseau
 > ![Aircrack-ng Badge](https://img.shields.io/badge/-Aircrack--ng-3B4252?style=flat&logo=github&logoColor=white)
 > ![Wireshark Badge](https://img.shields.io/badge/-Wireshark-3B4252?style=flat&logo=wireshark&logoColor=green)
 > ![Kismet Badge](https://img.shields.io/badge/-Kismet-3B4252?style=flat&logo=github&logoColor=white)
@@ -228,7 +230,7 @@
 > ![NetStumbler Badge](https://img.shields.io/badge/-NetStumbler-3B4252?style=flat&logo=github&logoColor=white)
 > ![InSSIDer Badge](https://img.shields.io/badge/-InSSIDer-3B4252?style=flat&logo=github&logoColor=white)
 > ![Reaver-WPS Badge](https://img.shields.io/badge/-Reaver--WPS-3B4252?style=flat&logo=github&logoColor=white)
-###### Web tools
+###### Web
 > ![Burp Suite Badge](https://img.shields.io/badge/-Burp%20Suite-3B4252?style=flat&logo=github&logoColor=white)
 > ![Beef Badge](https://img.shields.io/badge/-Beef-3B4252?style=flat&logo=github&logoColor=white)
 > ![Sn1per Badge](https://img.shields.io/badge/-Sn1per-3B4252?style=flat&logo=github&logoColor=white)
@@ -254,7 +256,7 @@
 > ![Skipfish Badge](https://img.shields.io/badge/-Skipfish-3B4252?style=flat&logo=github&logoColor=white)
 > ![XSStrike Badge](https://img.shields.io/badge/-XSStrike-3B4252?style=flat&logo=github&logoColor=white)
 > ![Commix Badge](https://img.shields.io/badge/-Commix-3B4252?style=flat&logo=github&logoColor=white)
-###### Exploitation & Access 
+###### Exploitation et Accès
 > ![Metasploit Framework Badge](https://img.shields.io/badge/-Metasploit%20Framework-3B4252?style=flat&logo=github&logoColor=white)
 > ![Mimikatz Badge](https://img.shields.io/badge/-Mimikatz-3B4252?style=flat&logo=github&logoColor=white)
 > ![Empire Badge](https://img.shields.io/badge/-Empire-3B4252?style=flat&logo=github&logoColor=white)
@@ -289,7 +291,7 @@
 > ![APKInspector Badge](https://img.shields.io/badge/-apktool-3B4252?style=flat&logo=github&logoColor=white)
 > ![Android Debug Bridge (ADB) Badge](https://img.shields.io/badge/-ADB-3B4252?style=flat&logo=github&logoColor=white)
 
-###### Password Cracking
+###### Craquage de mot de passe
 > ![Hashcat Badge](https://img.shields.io/badge/-Hashcat-3B4252?style=flat&logo=github&logoColor=white)
 > ![John the Ripper Badge](https://img.shields.io/badge/-John%20the%20Ripper-3B4252?style=flat&logo=github&logoColor=white)
 > ![Hydra Badge](https://img.shields.io/badge/-Hydra-3B4252?style=flat&logo=github&logoColor=white)
@@ -300,7 +302,7 @@
 ###### Incident Response
 > ![Fortinet Badge](https://img.shields.io/badge/-Fortinet-3B4252?style=flat&logo=fortinet&logoColor=ff4500)
 > ![Cortex Badge](https://img.shields.io/badge/-Cortex-3B4252?style=flat&logo=paloaltonetworks&logoColor=0096FF)
-###### Threat Intelligence & Endpoint Security
+###### Renseignements sur les menaces et sécurité Endpoints
 > ![CrowdStrike Falcon Badge](https://img.shields.io/badge/-CrowdStrike%20Falcon-3B4252?style=flat&logo=falcon&logoColor=ff4400)
 > ![Palo Alto Networks Threat Intelligence Badge](https://img.shields.io/badge/-Palo%20Alto-3B4252?style=flat&logo=paloaltonetworks&logoColor=red)
 
@@ -309,12 +311,12 @@
 </details>
 
 <details>
-  <summary><strong> IDEs & Platforms </strong> </summary>
+  <summary><strong> IDEs & Plates-formes</strong> </summary>
  
  <br>
 
 <div style="display: flex; justify-content: left; align-items: left;">
-    <div> ⭐ My favorite: </div>
+    <div> ⭐ Mon préféré: </div>
     <div> &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/-Sublime%20Text-3B4252?style=flat&logo=sublimetext&logoColor=BF616A" alt="Sublime Text Badge" />
     </div>
@@ -340,10 +342,10 @@
 
 
 <details>
-  <summary><strong> Management & Projects  </strong> </summary>
+  <summary><strong> Gestion et projets </strong> </summary>
 
 
-###### Project Management & Collaboration
+###### Gestion de projet et collaboration
 
 > ![Git Badge](https://img.shields.io/badge/-Git-3B4252?style=flat&logo=git&logoColor=5E81AC)
 > ![GitHub Badge](https://img.shields.io/badge/-GitHub-3B4252?style=flat&logo=github&logoColor=8FBCBB)
@@ -354,7 +356,7 @@
 > ![Confluence Badge](https://img.shields.io/badge/-Confluence-3B4252?style=flat&logo=confluence&logoColor=81A1C1)
 > ![Trello Badge](https://img.shields.io/badge/-Trello-3B4252?style=flat&logo=trello&logoColor=A3BE8C)
 
-###### Design & Diagramming
+###### Conception et schématisation
 > ![UML Badge](https://img.shields.io/badge/-UML-3B4252?style=flat&logo=uml&logoColor=8FBCBB)
 > ![Lucid Badge](https://img.shields.io/badge/-Lucid-3B4252?style=flat&logo=lucid&logoColor=A3BE8C)
 > ![DB Badge](https://img.shields.io/badge/-DB%20Diagram-3B4252?style=flat&logo=diagramsdotnet&logoColor=0096FF)
@@ -366,10 +368,10 @@
 
 
 <details>
+
   <summary><strong> Design </strong> </summary>
 
-###### Image Editing & Drawing
-
+###### Édition d'images et dessin
 > ![Adobe Badge](https://img.shields.io/badge/-Adobe-3B4252?style=flat&logo=adobe&logoColor=ff0000)
 > ![Adobe Badge](https://img.shields.io/badge/-CorelDraw-3B4252?style=flat&logo=coreldraw&logoColor=green)
 > ![Lightroom Badge](https://img.shields.io/badge/-Lightroom-3B4252?style=flat&logo=adobelightroom&logoColor=00cefce)
@@ -378,7 +380,7 @@
 > ![InDesign Badge](https://img.shields.io/badge/-InDesign-3B4252?style=flat&logo=adobeindesign&logoColor=BF40BF)
 > ![Affinity Badge](https://img.shields.io/badge/-Affinity-3B4252?style=flat&logo=affinity&logoColor=81A1C1)
 
-###### Video Production
+###### Production vidéo
 > ![After Effects Badge](https://img.shields.io/badge/-After%20Effects-3B4252?style=flat&logo=adobeaftereffects&logoColor=BF616A)
 > ![Premiere Badge](https://img.shields.io/badge/-Premiere%20CC-3B4252?style=flat&logo=adobepremierepro&logoColor=#31A8FF)
 > ![Filmora Badge](https://img.shields.io/badge/-Filmora-3B4252?style=flat&logo=filmora&logoColor=4D9CFF)
@@ -391,7 +393,9 @@
 > ![ZBrush Badge](https://img.shields.io/badge/-ZBrush-3B4252?style=flat&logo=paritysubstrate&logoColor=fff)
 > ![GIMP Badge](https://img.shields.io/badge/-GIMP-3B4252?style=flat&logo=gimp&logoColor=88C0D0)
 > ![unity Badge](https://img.shields.io/badge/-Unity-3B4252?style=flat&logo=unity&logoColor=white)
+
 <br>
+
 </details>
 
 <details>
@@ -425,39 +429,37 @@
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/standard%20(2).gif"></img>
 </p>
 
-
-> ❱❱❱  Hey there! I’m Henry – a developer, gamer, and digital creator who’s all about pushing the limits of tech (and sometimes my own patience).  
-I whip up code that *mostly* works, craft clean interfaces, and build apps that aim to make the web a bit more exciting. My pronouns? TCP/IP.
-
-<br>
-
-#### What I’m About:
-
-> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis. I mainly work on backend stuff, but I can handle frontend tasks too. Just trying to get better every day! \
-> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification. \
-> 「Problem Solver」: I enjoy tackling challenges and finding creative solutions. It’s like a puzzle that keeps me engaged and excited. 
+> ❱❱❱  Bonjour! Je suis Henry - un développeur, un joueur et un créateur numérique qui cherche à repousser les limites de la technologie (et parfois de sa propre patience).  
+J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propres et je crée des applications qui visent à rendre le Web un peu plus excitant. Mes pronoms ? TCP/IP.
 
 <br>
 
-#### Creative Side:
+#### Ce que je fais :
 
-> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* and *White Nights* are definitely up there. \
-> 「Music Lover」: Music is my jam! I play guitar and love composing. It’s a great way to express myself and unwind. \
-> 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me. 
+> 「Passionné de technologie」: J’ai un diplôme en Développement et Analyse Logicielle. Je travaille principalement sur le backend, mais je m’occupe aussi des tâches frontend. Mon objectif est de m’améliorer chaque jour !
+> 「Passionné par l’IA et la cybersécurité」: L’intelligence artificielle et la cybersécurité m’intéressent énormément. J’ai expérimenté la création de mes propres modèles d’IA et je me forme actuellement à la cybersécurité, car c’est un domaine fascinant. Mon but est de me spécialiser en red teaming et d’obtenir la certification OSCP.
+> 「Résolveur de problèmes」: J’adore relever des défis et trouver des solutions créatives. C’est comme un puzzle qui me garde engagé et enthousiaste.
+<br>
+
+#### Côté créatif :
+
+> 「Lecteur avide」: J’adore les livres qui font réfléchir, comme ceux de Dostoïevski, Orwell, Huxley, Tolstoï et Kafka. Je n’arrive pas à choisir un favori, mais *La Métamorphose* et *Les Nuits Blanches* figurent certainement parmi mes préférés.
+> 「Amoureux de la musique」: La musique, c’est ma passion ! Je joue de la guitare et j’adore composer. C’est un excellent moyen de m’exprimer et de me détendre.
+> 「Art et dessin」: J’aime dessiner et créer des illustrations. J’aime poser mes pensées et idées sur une toile numérique et voir où cela me mène.
 
 <br>
 
-#### A Bit About Me:
+#### Un peu à propos de moi :
 
-> 「Languages」: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds. \
-> 「Family Dreams」: I’m in love with my girlfriend, and we’re dreaming of a future together with two kids. Family means a lot to me. \
-> 「Animal Lover」: I’m a big fan of animals, especially cats. They’re just the best companions. \
-> 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. 
+> 「Langues」: Je parle portugais, français et anglais. C’est amusant de connecter avec des gens de différents horizons.
+> 「Rêves familiaux」: Je suis amoureux de ma petite amie, et nous rêvons d’un avenir ensemble avec deux enfants. La famille compte beaucoup pour moi.
+> 「Amoureux des animaux」: Je suis un grand fan des animaux, surtout des chats. Ce sont les meilleurs compagnons.
+> 「Ambiance détendue」: J’adore le codage et la technologie, mais j’apprécie aussi de faire une pause loin de l’écran de temps en temps. Dans un monde de 1 et de 0, c’est agréable de se déconnecter et de simplement se détendre un moment.
 
 <br>
 
 
-##### 「 🎵 Currently listening to 」
+##### 「🎵 En ce moment, j'écoute」:
 
 <div align="center">
   
@@ -470,11 +472,11 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 <br/>
 
-📩 **Hey, get in touch!**:
+####### 📩 **Hey, on se capte !**:
 
 
 <details>
-  <summary> Contact me here </summary>
+  <summary> Contacte-moi ici </summary>
   <br>
 
 
