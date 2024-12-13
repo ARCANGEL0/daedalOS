@@ -6,11 +6,11 @@ export const config: VantaWavesConfig = {
     fov: 30,
     near: 0.1,
   },
-  color: "rgb(20,20,20)",
-  colorCycleSpeed: 0,
-  forceAnimate: true,
+  color: "rgb(8,8,8)",
+  colorCycleSpeed: 1000000,
+  forceAnimate: false,
   hh: 50,
-  hue: 225,
+  hue: 0,
   lightness: 20,
   material: {
     options: {
@@ -20,8 +20,8 @@ export const config: VantaWavesConfig = {
   },
   saturation: 40,
   shininess: 35,
-  waveHeight: 50,
-  waveSpeed: 0.55,
+  waveHeight: 70,
+  waveSpeed: 0.35,
   ww: 50,
 };
 
