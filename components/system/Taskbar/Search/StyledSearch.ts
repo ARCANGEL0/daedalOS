@@ -31,14 +31,14 @@ const StyledSearch = styled(motion.nav)<StyledSearchProps>`
 
   .search {
     width: 100%;
- 
+
 
     input {
       appearance: none;
    background: rgba(100,100,100,0.1);
   border: 0; 
       border-radius: 0;
-      color: #eee;
+      color: #cecece;
       font-size: 15px;
       height: 40px;
       padding: 10px;
@@ -46,7 +46,7 @@ const StyledSearch = styled(motion.nav)<StyledSearchProps>`
       width: 100%;
 
       &::placeholder {
-        color: #000;
+        color: #cecece;
         inset: 0;
         left: 37px;
         opacity: 100%;
@@ -59,13 +59,14 @@ const StyledSearch = styled(motion.nav)<StyledSearchProps>`
     }
     #searchMenu {
     top: 5vh;
-    background: rgba(0,0,0,0.8)
+    background: rgba(0,0,0,0.8);
     } 
 
 
     svg {
       bottom: 12px;
       height: 16px;
+      fill: #cecece;
       left: 12px;
       position: absolute;
       width: 16px;
