@@ -33,13 +33,18 @@ type TabProps = {
   url: string;
 };
 
-const dateTimeString = (date?: Date): string =>
-  date
-    ?.toLocaleString(DEFAULT_LOCALE, {
-      dateStyle: "long",
-      timeStyle: "medium",
-    })
-    .replace(" at ", ", ") || "";
+const dateTimeString = (date?: Date): string => {
+  if (!date) return "";
+
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+  const day = String(date.getDate()).padStart(2, '0');
+  
+  const hours = String(date.getHours()).padStart(2, '0');
+  const minutes = String(date.getMinutes()).padStart(2, '0');
+
+  return `${year}/${month}/${day} & ${hours}:${minutes}`;
+};
 
 const GeneralTab: FC<TabProps> = ({ icon, id, isShortcut, pid, url }) => {
   const { closeWithTransition, icon: setIcon } = useProcesses();
@@ -231,28 +236,25 @@ const GeneralTab: FC<TabProps> = ({ icon, id, isShortcut, pid, url }) => {
               <td>{`${fileCount.toLocaleString()} Files, ${folderCount.toLocaleString()} Folders`}</td>
             </tr>
           )}
-          <tr>
-            <td className="spacer" colSpan={2} />
-          </tr>
-          <tr>
-            <th scope="row">Created:</th>
-            <td>{dateTimeString(stats?.ctime)}</td>
-          </tr>
-          {!stats?.isDirectory() && (
-            <tr>
-              <th scope="row">Modified:</th>
-              <td>
-                {stats &&
-                  dateTimeString(
-                    new Date(getModifiedTime(url, stats as FileStat))
-                  )}
-              </td>
-            </tr>
-          )}
-          <tr>
-            <th scope="row">Accessed:</th>
-            <td>{dateTimeString(stats?.atime)}</td>
-          </tr>
+         <tr>
+    <td className="spacer" colSpan={2} />
+</tr>
+<tr>
+    <th scope="row">Created at:</th>
+    <td>{`------ ${dateTimeString(stats?.ctime)}`}</td>
+</tr>
+{!stats?.isDirectory() && (
+    <tr>
+        <th scope="row">Modified at:</th>
+        <td>
+            {stats && `------ ${dateTimeString(new Date(getModifiedTime(url, stats as FileStat)))}`}
+        </td>
+    </tr>
+)}
+<tr>
+    <th scope="row">Accessed at:</th>
+    <td>{`------ ${dateTimeString(stats?.atime)}`}</td>
+</tr>
         </tbody>
       </table>
       <Buttons id={id} onClick={okAction} />

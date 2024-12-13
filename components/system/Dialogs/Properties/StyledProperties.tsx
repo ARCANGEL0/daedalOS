@@ -77,7 +77,7 @@ const StyledProperties = styled.div`
           font-size: 11px;
           height: 23px;
           color: #fff;
-          border-radius: 5px
+          border-radius: 5px;
           padding: 10px;
           width: 100%;
         }
@@ -98,8 +98,9 @@ const StyledProperties = styled.div`
       z-index: 1;
 
       button {
-        rgba(255, 255, 255,0.4)
+        background: rgba(255, 255, 255,0.4);
         border-radius: 5px;
+    border: 0;
         border-bottom-width: 0;
         display: flex;
         font-size: 11.5px;
@@ -125,7 +126,8 @@ const StyledProperties = styled.div`
           }
 
           &:hover {
-            background-color: rgb(216, 234, 249);
+            background-color: rgb(155, 249, 155);
+            border: 0;
           }
         }
       }
